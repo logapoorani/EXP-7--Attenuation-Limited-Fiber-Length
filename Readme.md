@@ -49,6 +49,11 @@ Using the power budget equation and the parameters below, determine the attenuat
 - Visualizer components are included to obtain necessary simulation data.  
 
 ---
+## Block Diagram
+<img width="479" height="541" alt="image" src="https://github.com/user-attachments/assets/0270fdc9-78b6-44c9-a449-2fadb5de3696" />
+
+## Graph
+<img width="877" height="320" alt="image" src="https://github.com/user-attachments/assets/974bf8e6-818f-4635-bded-37f106e47253" />
 
 ## Simulation
 1. Run the simulation and record:
